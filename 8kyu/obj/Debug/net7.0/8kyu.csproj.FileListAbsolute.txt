@@ -1,0 +1,15 @@
+F:\CodeWar\8kyu\bin\Debug\net7.0\8kyu.exe
+F:\CodeWar\8kyu\bin\Debug\net7.0\8kyu.deps.json
+F:\CodeWar\8kyu\bin\Debug\net7.0\8kyu.runtimeconfig.json
+F:\CodeWar\8kyu\bin\Debug\net7.0\8kyu.dll
+F:\CodeWar\8kyu\bin\Debug\net7.0\8kyu.pdb
+F:\CodeWar\8kyu\obj\Debug\net7.0\8kyu.csproj.AssemblyReference.cache
+F:\CodeWar\8kyu\obj\Debug\net7.0\8kyu.GeneratedMSBuildEditorConfig.editorconfig
+F:\CodeWar\8kyu\obj\Debug\net7.0\8kyu.AssemblyInfoInputs.cache
+F:\CodeWar\8kyu\obj\Debug\net7.0\8kyu.AssemblyInfo.cs
+F:\CodeWar\8kyu\obj\Debug\net7.0\8kyu.csproj.CoreCompileInputs.cache
+F:\CodeWar\8kyu\obj\Debug\net7.0\8kyu.dll
+F:\CodeWar\8kyu\obj\Debug\net7.0\refint\8kyu.dll
+F:\CodeWar\8kyu\obj\Debug\net7.0\8kyu.pdb
+F:\CodeWar\8kyu\obj\Debug\net7.0\8kyu.genruntimeconfig.cache
+F:\CodeWar\8kyu\obj\Debug\net7.0\ref\8kyu.dll

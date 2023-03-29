@@ -1,0 +1,15 @@
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\bin\Debug\net7.0\Counting 1 I Want Some Subsets, Not All!.exe
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\bin\Debug\net7.0\Counting 1 I Want Some Subsets, Not All!.deps.json
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\bin\Debug\net7.0\Counting 1 I Want Some Subsets, Not All!.runtimeconfig.json
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\bin\Debug\net7.0\Counting 1 I Want Some Subsets, Not All!.dll
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\bin\Debug\net7.0\Counting 1 I Want Some Subsets, Not All!.pdb
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\obj\Debug\net7.0\Counting 1 I Want Some Subsets, Not All!.csproj.AssemblyReference.cache
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\obj\Debug\net7.0\Counting 1 I Want Some Subsets, Not All!.GeneratedMSBuildEditorConfig.editorconfig
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\obj\Debug\net7.0\Counting 1 I Want Some Subsets, Not All!.AssemblyInfoInputs.cache
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\obj\Debug\net7.0\Counting 1 I Want Some Subsets, Not All!.AssemblyInfo.cs
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\obj\Debug\net7.0\Counting 1 I Want Some Subsets, Not All!.csproj.CoreCompileInputs.cache
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\obj\Debug\net7.0\Counting 1 I Want Some Subsets, Not All!.dll
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\obj\Debug\net7.0\refint\Counting 1 I Want Some Subsets, Not All!.dll
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\obj\Debug\net7.0\Counting 1 I Want Some Subsets, Not All!.pdb
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\obj\Debug\net7.0\Counting 1 I Want Some Subsets, Not All!.genruntimeconfig.cache
+F:\CodeWar\6kyu\Counting 1 I Want Some Subsets, Not All!\obj\Debug\net7.0\ref\Counting 1 I Want Some Subsets, Not All!.dll

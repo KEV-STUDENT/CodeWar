@@ -1,0 +1,15 @@
+F:\CodeWar\7kyu\draw me a chessboard\bin\Debug\net7.0\draw me a chessboard.exe
+F:\CodeWar\7kyu\draw me a chessboard\bin\Debug\net7.0\draw me a chessboard.deps.json
+F:\CodeWar\7kyu\draw me a chessboard\bin\Debug\net7.0\draw me a chessboard.runtimeconfig.json
+F:\CodeWar\7kyu\draw me a chessboard\bin\Debug\net7.0\draw me a chessboard.dll
+F:\CodeWar\7kyu\draw me a chessboard\bin\Debug\net7.0\draw me a chessboard.pdb
+F:\CodeWar\7kyu\draw me a chessboard\obj\Debug\net7.0\draw me a chessboard.csproj.AssemblyReference.cache
+F:\CodeWar\7kyu\draw me a chessboard\obj\Debug\net7.0\draw me a chessboard.GeneratedMSBuildEditorConfig.editorconfig
+F:\CodeWar\7kyu\draw me a chessboard\obj\Debug\net7.0\draw me a chessboard.AssemblyInfoInputs.cache
+F:\CodeWar\7kyu\draw me a chessboard\obj\Debug\net7.0\draw me a chessboard.AssemblyInfo.cs
+F:\CodeWar\7kyu\draw me a chessboard\obj\Debug\net7.0\draw me a chessboard.csproj.CoreCompileInputs.cache
+F:\CodeWar\7kyu\draw me a chessboard\obj\Debug\net7.0\draw me a chessboard.dll
+F:\CodeWar\7kyu\draw me a chessboard\obj\Debug\net7.0\refint\draw me a chessboard.dll
+F:\CodeWar\7kyu\draw me a chessboard\obj\Debug\net7.0\draw me a chessboard.pdb
+F:\CodeWar\7kyu\draw me a chessboard\obj\Debug\net7.0\draw me a chessboard.genruntimeconfig.cache
+F:\CodeWar\7kyu\draw me a chessboard\obj\Debug\net7.0\ref\draw me a chessboard.dll

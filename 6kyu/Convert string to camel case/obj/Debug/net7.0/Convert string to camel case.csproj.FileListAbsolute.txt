@@ -1,0 +1,15 @@
+F:\CodeWar\6kyu\Convert string to camel case\obj\Debug\net7.0\Convert string to camel case.csproj.AssemblyReference.cache
+F:\CodeWar\6kyu\Convert string to camel case\obj\Debug\net7.0\Convert string to camel case.GeneratedMSBuildEditorConfig.editorconfig
+F:\CodeWar\6kyu\Convert string to camel case\obj\Debug\net7.0\Convert string to camel case.AssemblyInfoInputs.cache
+F:\CodeWar\6kyu\Convert string to camel case\obj\Debug\net7.0\Convert string to camel case.AssemblyInfo.cs
+F:\CodeWar\6kyu\Convert string to camel case\obj\Debug\net7.0\Convert string to camel case.csproj.CoreCompileInputs.cache
+F:\CodeWar\6kyu\Convert string to camel case\bin\Debug\net7.0\Convert string to camel case.exe
+F:\CodeWar\6kyu\Convert string to camel case\bin\Debug\net7.0\Convert string to camel case.deps.json
+F:\CodeWar\6kyu\Convert string to camel case\bin\Debug\net7.0\Convert string to camel case.runtimeconfig.json
+F:\CodeWar\6kyu\Convert string to camel case\bin\Debug\net7.0\Convert string to camel case.dll
+F:\CodeWar\6kyu\Convert string to camel case\bin\Debug\net7.0\Convert string to camel case.pdb
+F:\CodeWar\6kyu\Convert string to camel case\obj\Debug\net7.0\Convert string to camel case.dll
+F:\CodeWar\6kyu\Convert string to camel case\obj\Debug\net7.0\refint\Convert string to camel case.dll
+F:\CodeWar\6kyu\Convert string to camel case\obj\Debug\net7.0\Convert string to camel case.pdb
+F:\CodeWar\6kyu\Convert string to camel case\obj\Debug\net7.0\Convert string to camel case.genruntimeconfig.cache
+F:\CodeWar\6kyu\Convert string to camel case\obj\Debug\net7.0\ref\Convert string to camel case.dll

@@ -1,0 +1,15 @@
+F:\CodeWar\6kyu\Character with longest consecutive repetition\bin\Debug\net7.0\Character with longest consecutive repetition.exe
+F:\CodeWar\6kyu\Character with longest consecutive repetition\bin\Debug\net7.0\Character with longest consecutive repetition.deps.json
+F:\CodeWar\6kyu\Character with longest consecutive repetition\bin\Debug\net7.0\Character with longest consecutive repetition.runtimeconfig.json
+F:\CodeWar\6kyu\Character with longest consecutive repetition\bin\Debug\net7.0\Character with longest consecutive repetition.dll
+F:\CodeWar\6kyu\Character with longest consecutive repetition\bin\Debug\net7.0\Character with longest consecutive repetition.pdb
+F:\CodeWar\6kyu\Character with longest consecutive repetition\obj\Debug\net7.0\Character with longest consecutive repetition.csproj.AssemblyReference.cache
+F:\CodeWar\6kyu\Character with longest consecutive repetition\obj\Debug\net7.0\Character with longest consecutive repetition.GeneratedMSBuildEditorConfig.editorconfig
+F:\CodeWar\6kyu\Character with longest consecutive repetition\obj\Debug\net7.0\Character with longest consecutive repetition.AssemblyInfoInputs.cache
+F:\CodeWar\6kyu\Character with longest consecutive repetition\obj\Debug\net7.0\Character with longest consecutive repetition.AssemblyInfo.cs
+F:\CodeWar\6kyu\Character with longest consecutive repetition\obj\Debug\net7.0\Character with longest consecutive repetition.csproj.CoreCompileInputs.cache
+F:\CodeWar\6kyu\Character with longest consecutive repetition\obj\Debug\net7.0\Character with longest consecutive repetition.dll
+F:\CodeWar\6kyu\Character with longest consecutive repetition\obj\Debug\net7.0\refint\Character with longest consecutive repetition.dll
+F:\CodeWar\6kyu\Character with longest consecutive repetition\obj\Debug\net7.0\Character with longest consecutive repetition.pdb
+F:\CodeWar\6kyu\Character with longest consecutive repetition\obj\Debug\net7.0\Character with longest consecutive repetition.genruntimeconfig.cache
+F:\CodeWar\6kyu\Character with longest consecutive repetition\obj\Debug\net7.0\ref\Character with longest consecutive repetition.dll
